@@ -1,2 +1,2 @@
-# Odin-recipes
+# odin-recipes
 Build a basic recipe website
